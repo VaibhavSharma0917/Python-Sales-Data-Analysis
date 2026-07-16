@@ -1,5 +1,5 @@
-# Python-Sales-Data-Analysis
-An end-to-end Python sales analytics project over 10,000+ retail sales records demonstrating data cleaning, exploratory data analysis (EDA), data visualization, and actionable business insights using Pandas, NumPy, and Matplotlib to support data-driven decision-making.
+
+
 
 # 📊 Python Sales Data Analysis
 
